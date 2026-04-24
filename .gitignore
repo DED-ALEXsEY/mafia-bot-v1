@@ -1,0 +1,25 @@
+# Переменные окружения
+.env
+.env.local
+*.env
+
+# PyCharm/IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
