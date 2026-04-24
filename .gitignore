@@ -1,25 +1,15 @@
-# Переменные окружения
+# Секретные данные
 .env
 .env.local
 *.env
 
-# PyCharm/IDE
+# IDE
 .idea/
-*.iml
 .vscode/
-*.swp
-*.swo
+*.iml
 
 # Python
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
+*.pyc
 venv/
-env/
 .venv/
-
-# OS
-.DS_Store
-Thumbs.db
